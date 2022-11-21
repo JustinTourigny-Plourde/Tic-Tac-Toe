@@ -1,0 +1,15 @@
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Users\justi\Documents\Automne 2022\Programmation 1\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
